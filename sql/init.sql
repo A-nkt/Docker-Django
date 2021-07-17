@@ -1,0 +1,3 @@
+GRANT ALL PRIVILEGES ON test_mydb.* TO 'user'@'%';
+
+FLUSH PRIVILEGES;
